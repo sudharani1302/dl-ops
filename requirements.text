@@ -1,0 +1,5 @@
+fastapi
+skikit-learn
+uvicorn
+nltk
+joblib
